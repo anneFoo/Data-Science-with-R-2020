@@ -21,7 +21,7 @@ output:
 #    \pagestyle{fancy}
 ---
 \newpage
-![](/Users/shivanihegde/Desktop/R_Project1/MyFirstRepo/MyFirstRepo/Signet_INF_3.jpg)
+![](/Users/shivanihegde/Desktop/R_Project/Signet_INF_3.jpg)
 
 
 # **DATA SCIENCE WITH R - PROJECT PROPOSAL**
@@ -84,4 +84,4 @@ Create Project Website | Farhaan, Maneendra
 Create Project Screencast  | Shivani, Anne, Poornima
 Final Project Presentation | All team members
 |
-![](/Users/shivanihegde/Desktop/R_Project1/MyFirstRepo/MyFirstRepo/Roadmap.png)
+![](/Users/shivanihegde/Desktop/R_Project/Roadmap.png)
