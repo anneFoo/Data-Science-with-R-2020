@@ -10,7 +10,9 @@ Our project presents:
     Analysis of patient medical data
     Impact of Twitter
 
-Data: Dataset can be downloaded here: Novel Coronavirus 2019 Time Series Data on Cases: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases Patient Medical Data for Novel Coronavirus COVID-19: https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19 Twitter Data: using tritteR and rtweet libraries
+Data: Dataset can be downloaded here: Novel Coronavirus 2019 Time Series Data on Cases: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases <br>
+Patient Medical Data for Novel Coronavirus COVID-19: https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19 <br>
+Twitter Data: using tritteR and rtweet libraries
 
 URL Website: https://farhaan.shinyapps.io/Covid/
 
