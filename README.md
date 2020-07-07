@@ -1,5 +1,4 @@
 # Data-Science-with-R-2020
-Seminar 2020
 
 Analysis and Predictions of the Impact of COVID-19 The world is battling with an invisible and fatal enemy, trying to understand how to live with the danger presented by a virus. It has been named COVID-19, belonging to a family of coronavirus to be the seventh known to affect humans.The novel coronavirus outbreak originated in Wuhan, China and has been declared as a ‘pandemic’ by the World Health Organization (WHO).
 
