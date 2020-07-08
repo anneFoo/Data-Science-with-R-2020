@@ -16,4 +16,4 @@ Twitter Data: using tritteR and rtweet libraries
 
 URL Website: https://farhaan.shinyapps.io/Covid/
 
-URL Screencast: https://www.youtube.com/watch?v=IQCKhvJs6-c&feature=youtu.be  // modification?
+URL Screencast: https://youtu.be/DhgDT_I-Ogg
